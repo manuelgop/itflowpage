@@ -61,7 +61,7 @@ p {
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 1.9;
-    color: #999;
+    color: whitesmoke;
     font-family: 'Sarabun', sans-serif;
 }
 
@@ -190,7 +190,7 @@ div#home {
 
 /* banner */
 .banner-top1 {
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(../images/datacenter.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -268,7 +268,7 @@ p.movetxt {
 
 /* services */
 .serives-w3pvt-web {
-    background: url(../images/ser.jpg) no-repeat center fixed;
+    background: url(../images/code1.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -278,7 +278,7 @@ p.movetxt {
 
 .services-w3ls-grid h4 {
     font-weight: 600;
-    color: #1d1d1d;
+    color: white;
     font-size: 26px;
 }
 
